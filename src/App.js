@@ -1,6 +1,6 @@
 import React from 'react';
-import './App.css';
-import Animals from "./Animals";
+import './css/App.css';
+import Animals from "./js/components/Animals";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {

@@ -1,0 +1,64 @@
+{ 
+ "animals": [
+   {
+       "title": "Ring-Tailed Lemur—Sketch for the Museum Leverianum",
+       "link": "https://www.oldbookillustrations.com/illustrations/ring-tailed-lemur-sketch/",
+       "image": "https://www.oldbookillustrations.com/wp-content/uploads/2021/12/ring-tailed-lemur-sketch-220x220.jpg"
+   },
+   {
+       "title": "Ring-Tailed Lemur",
+       "link": "https://www.oldbookillustrations.com/illustrations/ring-tailed-lemur/",
+       "image": "https://www.oldbookillustrations.com/wp-content/uploads/2021/12/ring-tailed-lemur-220x220.jpg"
+   },
+   {
+       "title": "Common Chameleon—Sketch for the Museum Leverianum",
+       "link": "https://www.oldbookillustrations.com/illustrations/chameleon-sketch/",
+       "image": "https://www.oldbookillustrations.com/wp-content/uploads/2021/12/chameleon-sketch-220x220.jpg"
+   },
+   {
+       "title": "Common Chameleon",
+       "link": "https://www.oldbookillustrations.com/illustrations/chameleon-ryley/",
+       "image": "https://www.oldbookillustrations.com/wp-content/uploads/2021/12/chameleon-ryley-220x220.jpg"
+   },
+   {
+       "title": "Lion-Tailed Macaque—Sketch for the Museum Leverianum",
+       "link": "https://www.oldbookillustrations.com/illustrations/lion-tailed-macaque-sketch/",
+       "image": "https://www.oldbookillustrations.com/wp-content/uploads/2021/12/lion-tailed-macaque-sketch-220x220.jpg"
+   },
+   {
+       "title": "Lion-Tailed Macaque",
+       "link": "https://www.oldbookillustrations.com/illustrations/lion-tailed-macaque/",
+       "image": "https://www.oldbookillustrations.com/wp-content/uploads/2021/12/lion-tailed-macaque-220x220.jpg"
+   },
+   {
+       "title": "Mandrill—Sketch for the Museum Leverianum",
+       "link": "https://www.oldbookillustrations.com/illustrations/mandrillus-sphinx-sketch/",
+       "image": "https://www.oldbookillustrations.com/wp-content/uploads/2021/12/mandrillus-sphinx-sketch-220x220.jpg"
+   },
+   {
+       "title": "Mandrill",
+       "link": "https://www.oldbookillustrations.com/illustrations/mandrillus-sphinx/",
+       "image": "https://www.oldbookillustrations.com/wp-content/uploads/2021/12/mandrillus-sphinx-220x220.jpg"
+   },
+   {
+       "title": "Virginia Opossum—Sketch for the Museum Leverianum",
+       "link": "https://www.oldbookillustrations.com/illustrations/virginian-opossum-sketch/",
+       "image": "https://www.oldbookillustrations.com/wp-content/uploads/2021/12/virginian-opossum-sketch-220x220.jpg"
+   },
+   {
+       "title": "Virginia Opossum",
+       "link": "https://www.oldbookillustrations.com/illustrations/virginian-opossum/",
+       "image": "https://www.oldbookillustrations.com/wp-content/uploads/2021/12/virginian-opossum-220x220.jpg"
+   },
+   {
+       "title": "Siberian Musk Deer—Sketch for the Museum Leverianum",
+       "link": "https://www.oldbookillustrations.com/illustrations/siberian-musk-deer-sketch/",
+       "image": "https://www.oldbookillustrations.com/wp-content/uploads/2021/12/siberian-musk-deer-sketch-220x220.jpg"
+   },
+   {
+       "title": "Siberian Musk Deer (Ryley)",
+       "link": "https://www.oldbookillustrations.com/illustrations/siberian-musk-deer-ryley/",
+       "image": "https://www.oldbookillustrations.com/wp-content/uploads/2021/12/siberian-musk-deer-ryley-220x220.jpg"
+   }
+ ]
+} 

@@ -1,0 +1,52 @@
+{ 
+ "animals": [ 
+  { 
+     "title": "Ring-Tailed Lemur—Sketch for the Museum Leverianum", 
+     "link": "https://www.oldbookillustrations.com/illustrations/ring-tailed-lemur-sketch/" 
+  }, 
+  { 
+     "title": "Ring-Tailed Lemur", 
+     "link": "https://www.oldbookillustrations.com/illustrations/ring-tailed-lemur/" 
+  }, 
+  { 
+     "title": "Common Chameleon—Sketch for the Museum Leverianum", 
+     "link": "https://www.oldbookillustrations.com/illustrations/chameleon-sketch/" 
+  }, 
+  { 
+     "title": "Common Chameleon", 
+     "link": "https://www.oldbookillustrations.com/illustrations/chameleon-ryley/" 
+  }, 
+  { 
+     "title": "Lion-Tailed Macaque—Sketch for the Museum Leverianum", 
+     "link": "https://www.oldbookillustrations.com/illustrations/lion-tailed-macaque-sketch/" 
+  }, 
+  { 
+     "title": "Lion-Tailed Macaque", 
+     "link": "https://www.oldbookillustrations.com/illustrations/lion-tailed-macaque/" 
+  }, 
+  { 
+     "title": "Mandrill—Sketch for the Museum Leverianum", 
+     "link": "https://www.oldbookillustrations.com/illustrations/mandrillus-sphinx-sketch/" 
+  }, 
+  { 
+     "title": "Mandrill", 
+     "link": "https://www.oldbookillustrations.com/illustrations/mandrillus-sphinx/" 
+  }, 
+  { 
+     "title": "Virginia Opossum—Sketch for the Museum Leverianum", 
+     "link": "https://www.oldbookillustrations.com/illustrations/virginian-opossum-sketch/" 
+  }, 
+  { 
+     "title": "Virginia Opossum", 
+     "link": "https://www.oldbookillustrations.com/illustrations/virginian-opossum/" 
+  }, 
+  { 
+     "title": "Siberian Musk Deer—Sketch for the Museum Leverianum", 
+     "link": "https://www.oldbookillustrations.com/illustrations/siberian-musk-deer-sketch/" 
+  }, 
+  { 
+     "title": "Siberian Musk Deer (Ryley)", 
+     "link": "https://www.oldbookillustrations.com/illustrations/siberian-musk-deer-ryley/" 
+  }
+ ] 
+} 
